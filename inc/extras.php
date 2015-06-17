@@ -315,7 +315,7 @@ if ( ! function_exists( 'dazzling_footer_info' ) ) :
  */
 function dazzling_footer_info() {
   global $dazzling_footer_info;
-  printf( __( 'Theme by %1$s Powered by %2$s', 'dazzling' ) , '<a href="http://colorlib.com/wp/" target="_blank">Colorlib</a>', '<a href="http://wordpress.org/" target="_blank">WordPress</a>');
+  printf( __( 'Создано %1$s Powered by %2$s', 'dazzling' ) , '<a href="http://colorlib.com/wp/" target="_blank">Colorlib</a>', '<a href="http://itpro36.ru/" target="_blank">ItPro</a>');
 }
 endif;
 
